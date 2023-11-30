@@ -19,7 +19,7 @@ pipeline {
 
             stage('Git Checkout') {
                 steps {
-                    git 'https://github.com/Ravindra0849/Ekart.git'
+                    git 'https://github.com/Ravindra0849/Ekart-Jenkins.git'
                 }
             }
             
